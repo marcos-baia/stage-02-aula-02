@@ -1,7 +1,10 @@
 ## 🚀 Rockeatseat 
 <h1>Stage 02 - Introdução ao HTML e CSS</h1>
 
-<h3>Conhecendo novos conceitos de HTML e CSS</h3>
+<h3>Aula 02 - Conhecendo novos conceitos de HTML e CSS</h3>
+<p align="center">
+  <img alt="Stage 02 / Projeto 02" src="assets/figma-project-02.png" width="60%">
+</p>
 
 <h4>Descrição</h4>
 
